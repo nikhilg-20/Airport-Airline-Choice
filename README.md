@@ -71,3 +71,24 @@ Key variables affecting airport and airline selection include:
 - Matplotlib / Seaborn
 
 ## Project Structure
+Airport-Airline-Choice-ML/
+│
+├── data/
+│ └── airport_choice_survey.xlsx
+│
+├── notebooks/
+│ └── airport_airline_choice_model.ipynb
+│
+├── results/
+│ └── model_outputs
+│
+└── README.md
+
+
+## Applications
+
+This analysis can help:
+
+- Airports understand passenger preferences
+- Airlines improve service strategies
+- Transportation planners optimize airport accessibility
